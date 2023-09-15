@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+.carouselExampleIndicators {
+  height: 96%;
+  width: 96%;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: black; 
+}
+
+.container {
+  text-align: right;
+}
+
+h4, h5 {
+  text-align: right;
+}
+
