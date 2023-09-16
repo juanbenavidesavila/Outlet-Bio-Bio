@@ -24,3 +24,9 @@ h4, h5 {
   text-align: right;
 }
 
+.button{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
